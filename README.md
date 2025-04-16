@@ -11,7 +11,7 @@ Programming Languages: [HTML, CSS, JavaScript]
 Tools: [Git and GitHub]
 
 ## What I'm Building Now:
-Currently working Building JavaScript Projects.
+Currently Building my portfolio.
 
 ## Connect With Me:
 [Link to my LinkedIn profile](https://www.linkedin.com/in/omowunmi-enahoro-62129123a)
