@@ -10,8 +10,7 @@ I am committed, passionate and persistent about frontend development. With this 
 Programming Languages: [HTML, CSS, JavaScript, Tailwind CSS]
 Tools: [Git and GitHub]
 
-## What I'm Building Now:
-Currently Building my portfolio.
+## Link To My Portfolio Website: [My Portfolio](https://www.omowunmienahoro.xyz/)
 
 ## Connect With Me:
 [Link to my LinkedIn profile](https://www.linkedin.com/in/omowunmi-enahoro-62129123a)
