@@ -7,7 +7,7 @@ I'm Omowunmi Enahoro, a front-end based in Lagos. I create clean and accessible 
 I am committed, passionate and persistent about frontend development. With this passion i aim to continously build value adding products as i grow in my career as a front-end developer.
 
 ## Tech Stack:
-Programming Languages: [HTML, CSS, JavaScript, Tailwind CSS]
+Programming Languages: [HTML, CSS, JavaScript, Tailwind CSS, React]
 Tools: [Git and GitHub]
 
 ## Link To My Portfolio Website: [My Portfolio](https://www.omowunmienahoro.xyz/)
