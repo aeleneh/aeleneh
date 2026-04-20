@@ -2,9 +2,9 @@
 This is my GitHub profile, a space where I showcase my coding journey and projects.
 
 ## About Me:
-I'm Omowunmi Enahoro, a front-end based in Lagos. I create clean and accessible web projects and enjoy watching movies in my free time. I earned a front-end development certicate from [Zuri Team](https://www.zuri.team/). Currently honing my skills at [Dot Campus Africa](https://dotcampus.co/) learning community. 
+I'm Omowunmi Enahoro, a front-end engineer based in Lagos. I create clean and accessible web projects and enjoy watching movies in my free time. I earned a front-end development certicate from [Zuri Team](https://www.zuri.team/). Currently interning at [YouVerify]([(https://youverify.co/)]). 
 
-I am committed, passionate and persistent about frontend development. With this passion i aim to continously build value adding products as i grow in my career as a front-end developer.
+I am committed, passionate and persistent about frontend engineering. With this passion i aim to continously build value adding products as i grow in my career as a front-end engineer.
 
 ## Tech Stack:
 Programming Languages: [HTML, CSS, JavaScript, Tailwind CSS, React]
